@@ -1,0 +1,6 @@
+{
+  "name": "reportr",
+  "short_name": "reportr",
+  "start_url": "/",
+  "display": "standalone"
+}
